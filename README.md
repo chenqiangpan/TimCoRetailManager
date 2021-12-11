@@ -1,2 +1,2 @@
 # TimCoRetailManager
-A retail management system developed by Tim Co 
+A retail management system developed by Tim Co , changed
